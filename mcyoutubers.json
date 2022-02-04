@@ -1,0 +1,28 @@
+{
+    "Minecraft Youtuber Stats for Feb 4 2022" : [
+        {
+            "TommyInnit" : [
+                {
+                    "Subscribers" : 11500000,
+                    "Views" : 1427970451,
+                    "Date Joined" : "25 Dec 2015",
+                    "Email" : "team@innitbusiness.com",
+                    "Friends" : ["Tubbo", "Fundy", "Quackity"],
+                    "Foes" : ["Dream", "Technoblade", "Eret"]
+                }
+            ]
+        },
+        {
+            "Tubbo" : [
+                {
+                    "Subscribers" : 3090000,
+                    "Views" : 61204077,
+                    "Date Joined" : "May 15 2018",
+                    "Email" : "tubbobusiness@gmail.com",
+                    "Friends" : ["TommyInnit", "Fundy", "Quackity"],
+                    "Foes" : ["Dream", "Technoblade", "Eret"]
+                }
+            ]
+        }
+    ]
+}
